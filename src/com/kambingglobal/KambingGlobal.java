@@ -4,8 +4,8 @@ package com.kambingglobal;
 	NAMA = Ivan Faathirza
 	KELAS = IF1
 	NIM = 10119003
-	Deskripsi program = program ini untuk mengakses dan mengubah variabel instance
-	lalu menampilkan ke layar melalui method
+	Deskripsi program = program ini untuk mengakses dan mengubah variabel instance melalui method
+	lalu menampilkan ke layar
  */
 
 public class KambingGlobal {
